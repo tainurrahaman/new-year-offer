@@ -4,22 +4,35 @@
     font-style: normal;
 }
 
+/* Shared style */
+.shared {
+    margin: 20px 100px;
+}
+
+.lal {
+    color: #FF0000;
+}
+
+.kalo {
+    color: #070211;
+}
+
 /* Header Styles */
 .banner {
-    margin: 50px 100px;
+    /* margin: 50px 100px; */
     width: 100%;
 }
 
 .banner-bg {
     background-image: url('../images/Banner\ Image.png');
     height: 600px;
-    color: #0f0f0f;
-    background-color: rgba(7, 2, 17, 1);
+    color: #161717ef;
+    background-color: rgba(7, 2, 17, 0);
     background-color: rgba(7, 2, 17, 0.5922);
     background-color: rgba(7, 2, 17, 0.63);
-    background-color: rgba(7, 2, 17, 0);
+    background-color: rgba(82, 81, 84, 0);
     background-repeat: no-repeat;
-    border-radius: 5px;
+    border-radius: 10px;
     text-align: center;
     margin: 0 auto;
 }
@@ -35,4 +48,97 @@
     padding-bottom: 177px;
     text-align: center;
     margin: 0 auto;
+}
+
+/* Offer Banner */
+.year-welcome {
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 0 auto;
+    padding-bottom: 70px;
+    border-radius: 10px;
+}
+
+.offer {
+    font-size: 50px;
+    margin-bottom: none;
+    padding-bottom: 0px;
+}
+
+.offer-title {
+    font-size: 20px;
+    padding-bottom: 1px;
+    margin: none;
+}
+
+.offer-subtitle {
+    font-size: 38px;
+    padding-top: 1px;
+    padding-bottom: none;
+    margin: none;
+}
+
+.img-new {
+    height: 400px;
+}
+
+/*welcome page  */
+.vector {
+    padding-bottom: 40px;
+
+}
+
+.welcome {
+    display: flex;
+    background-image: url(../images/Vectorrr.png);
+    justify-content: space-around;
+    border-radius: 10px;
+}
+
+.welcome-info {
+    width: 50%;
+    padding-top: 90px;
+    padding-left: 110px;
+}
+
+.welcome-image {
+    width: 50%;
+    text-align: right;
+    padding: 60px 60px;
+}
+
+.welcome-header {
+    color: #FFFFFF;
+    font-size: 48px;
+}
+
+.welcome-description {
+    color: #FFFFFF;
+    font-size: 18px;
+    padding-bottom: 30px;
+}
+
+.btn {
+    font-weight: bold;
+    font-size: 18px;
+    background-color: #FF0000;
+    border: none;
+    padding: 15px;
+    border-radius: 7px;
+}
+
+.hotel {
+    text-align: center;
+    background-color: #f8dddd;
+    padding: 30px;
+    border-radius: 7px;
+    padding-bottom: 60px;
+}
+
+.details {
+    /* opacity: 0.9%; */
+    color: #070211;
+    padding-bottom: 20px;
 }
