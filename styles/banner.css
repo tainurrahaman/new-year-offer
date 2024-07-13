@@ -1,0 +1,38 @@
+.merriweather-regular {
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* Header Styles */
+.banner {
+    margin: 50px 100px;
+    width: 100%;
+}
+
+.banner-bg {
+    background-image: url('../images/Banner\ Image.png');
+    height: 600px;
+    color: #0f0f0f;
+    background-color: rgba(7, 2, 17, 1);
+    background-color: rgba(7, 2, 17, 0.5922);
+    background-color: rgba(7, 2, 17, 0.63);
+    background-color: rgba(7, 2, 17, 0);
+    background-repeat: no-repeat;
+    border-radius: 5px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.msg {
+    font-size: 32px;
+    padding-top: 180px;
+    padding-bottom: none;
+}
+
+.celebration {
+    font-size: 72px;
+    padding-bottom: 177px;
+    text-align: center;
+    margin: 0 auto;
+}
