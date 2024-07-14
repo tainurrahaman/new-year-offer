@@ -297,3 +297,54 @@
     border: none;
     cursor: pointer;
 }
+
+/* Footer Styles */
+
+.foot {
+    background-color: #070211;
+    padding: 120px 140px;
+    color: white;
+}
+
+.footone {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+
+}
+
+.iconimg {
+    display: flex;
+    padding: 24px 0px 24px 0px;
+    justify-content: center;
+    align-items: center;
+    max-width: 100%;
+    gap: 20px;
+}
+
+.one {
+    font-size: 20px;
+}
+
+.two a {
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+}
+
+.foottwo {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    padding: 24px 0px 24px 0px;
+    font-size: 20px;
+}
+
+.tabid {
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 5px;
+    border: none;
+    background-color: #FF0000;
+    cursor: pointer;
+}
