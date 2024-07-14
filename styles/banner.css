@@ -142,3 +142,92 @@
     color: #070211;
     padding-bottom: 20px;
 }
+
+/* Ellipse style */
+
+.three {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.offer-coming {
+    width: 33%;
+    padding: 104px 70px 104px 0;
+}
+
+.nbo {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.cms {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.cms-para {
+    font-size: 18px;
+    color: #070211;
+    text-align: justify;
+}
+
+.celebrate-img {
+    padding: 100px 98px 100px 40px;
+    width: 30%;
+    display: block;
+}
+
+.year-info {
+    width: 33%;
+}
+
+.year {
+    font-size: 40px;
+    font-weight: bold;
+    padding: none;
+}
+
+/* Holiday styles */
+.holiday {
+    width: 100%;
+    background-color: rgba(249, 245, 239, 0.993);
+}
+
+.h_details {
+    padding: 20px 100px 50px 120px;
+    text-align: center;
+}
+
+.wif {
+    font-size: 18px;
+    font-weight: bold;
+    color: #070211;
+}
+
+.hs5 {
+    font-size: 40px;
+    font-weight: bold;
+    color: #070211;
+}
+
+.holiday-para {
+    font-size: 18px;
+    color: #070211;
+    text-align: center;
+}
+
+.clbr {
+    display: flex;
+    padding-bottom: none;
+}
+
+.futos {
+    width: 50%;
+    padding: 5px 20px 20px 80px;
+}
+
+.peroffer {
+    width: 50%;
+    padding: 15px 50px 30px 20px;
+}
