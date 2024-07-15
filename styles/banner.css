@@ -127,6 +127,7 @@
     border: none;
     padding: 15px;
     border-radius: 7px;
+    cursor: pointer;
 }
 
 .hotel {
